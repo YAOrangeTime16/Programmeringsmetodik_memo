@@ -1,1 +1,2 @@
 # Programmeringsmetodik_memo
+programmeringsmetodik/exercises/8_code_standard.md
